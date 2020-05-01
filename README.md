@@ -8,8 +8,13 @@ Bikeshare data in GitHub
 Describe what your project is about and what it does
 
 ### Files used
+<<<<<<< HEAD
 README.md
 chicago.csv
+=======
+README.md <br>
+chicago.csv <br>
+>>>>>>> documentation
 new_york_city.csv
 washington.csv
 bikeshare.py

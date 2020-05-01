@@ -175,8 +175,13 @@ def get_filters():
         user_choice = "All Days"
         day = 'all'
     print('You have selected:',user_choice) # Confirms user selection as day.
+<<<<<<< HEAD
     print('Press enter to continue')
     input()
+=======
+    e_to_c =('Press enter to continue....')
+    input(e_to_c)
+>>>>>>> refactoring
 
     print('-'*40)
     return city, month, day
@@ -205,6 +210,10 @@ def load_data(city, month, day):
     df['day'] = df['Start Time'].dt.weekday
 
     # filter by month if applicable
+<<<<<<< HEAD
+=======
+    e_to_c =('Press enter to continue....')
+>>>>>>> refactoring
     m = df['month']
     mm = month
     if month != 'all':
@@ -224,7 +233,11 @@ def load_data(city, month, day):
             else:
                 print()
                 print('Ok, then we will show results for all months.')
+<<<<<<< HEAD
                 input('Press Enter to Continue....')
+=======
+                input(e_to_c)
+>>>>>>> refactoring
                 month = 0
  
     
@@ -485,13 +498,30 @@ def main():
         user_stats(df)
         raw_data(df)
 
+<<<<<<< HEAD
         restart = input('Would you like to restart?   y/n :  ')
         
         if restart.lower() != 'y':
+=======
+        restart = input('Would you like to restart?   y/n :  '.lower())
+        
+        if restart != 'y':
+>>>>>>> refactoring
             break
 
 
 
 if __name__ == "__main__":
 	main()
+<<<<<<< HEAD
     
+=======
+    
+refactor:
+
+for day selection starting line 158,
+create variable e_to_c, used for input() to enter to continue.
+
+for filter by month start line 207
+create variable e_to_c and change input() to use variable instead of print command
+>>>>>>> refactoring

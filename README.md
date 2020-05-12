@@ -5,22 +5,18 @@
 Bikeshare data in GitHub
 
 ### Description
-Describe what your project is about and what it does
+Python program to breakdown Bikeshare data by user input.
 
 ### Files used
-<<<<<<< HEAD
-README.md
-chicago.csv
-=======
+
 README.md <br>
 chicago.csv <br>
->>>>>>> documentation
-new_york_city.csv
-washington.csv
-bikeshare.py
-read_me.txt
+new_york_city.csv<br>
+washington.csv<br>
+bikeshare.py<br>
+read_me.txt<br>
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-Udacity Git Commit Message Style Guide
+
+Udacity Git Commit Message Style Guide, and web search for Git commands when needed 
 

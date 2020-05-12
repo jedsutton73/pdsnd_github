@@ -11,11 +11,10 @@ Python program to breakdown Bikeshare data by user input.
 
 README.md <br>
 chicago.csv <br>
->>>>>>> documentation
-new_york_city.csv
-washington.csv
-bikeshare.py
-read_me.txt
+new_york_city.csv<br>
+washington.csv<br>
+bikeshare.py<br>
+read_me.txt<br>
 
 ### Credits
 

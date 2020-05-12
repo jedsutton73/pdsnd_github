@@ -18,5 +18,9 @@ read_me.txt<br>
 
 ### Credits
 
-Udacity Git Commit Message Style Guide, and web search for Git commands when needed 
+Udacity Git Commit Message Style Guide, and web search for Git commands when needed <br>
+
+### Correction
+
+Changes made to this document are to show git commit -m "doc: updating the credits section of readme file"
 

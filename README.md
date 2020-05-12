@@ -8,10 +8,7 @@ Bikeshare data in GitHub
 Python program to breakdown Bikeshare data by user input.
 
 ### Files used
-<<<<<<< HEAD
-README.md
-chicago.csv
-=======
+
 README.md <br>
 chicago.csv <br>
 >>>>>>> documentation

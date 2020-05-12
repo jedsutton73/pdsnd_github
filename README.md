@@ -5,7 +5,7 @@
 Bikeshare data in GitHub
 
 ### Description
-Describe what your project is about and what it does
+Python program to breakdown Bikeshare data by user input.
 
 ### Files used
 README.md <br>
@@ -16,6 +16,6 @@ bikeshare.py
 read_me.txt
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-Udacity Git Commit Message Style Guide
+
+Udacity Git Commit Message Style Guide, and web search for Git commands when needed 
 
